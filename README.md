@@ -1,6 +1,7 @@
 # Data-Analyst-Dashboard
 ### Data Professional Survey Breakdown
 This project analyses a dataset that was collected by Alex The Analyst which surveyed professionals on various aspects of their careers like their work-life balance, job satisfaction and their geographical locations. Using Power BI, I created an interactive dashboard ( shown below)  to generate a few business insights and key trends in the data industry. 
+![Image](https://github.com/user-attachments/assets/727319a8-2569-4c0c-baab-326fd5dcb5e8)
 
 
 ### Key Business Insights Analysed. 
